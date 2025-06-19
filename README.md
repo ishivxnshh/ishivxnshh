@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishivxnshh" alt="ishivxnshh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shivanshmittal_" target="blank"><img src="https://img.shields.io/twitter/follow/shivanshmittal_?logo=twitter&style=for-the-badge" alt="shivanshmittal_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ishivxnshh" target="blank"><img src="https://img.shields.io/twitter/follow/shivanshmittal_?logo=twitter&style=for-the-badge" alt="ishivxnshh" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development Skills**
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/shivansh-012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shivansh-012" height="30" width="40" /></a>
-<a href="https://twitter.com/shivanshmittal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivanshmittal_" height="30" width="40" /></a>
+<a href="https://twitter.com/ishivxnshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivanshmittal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishivxnshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishivxnshh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishivxnshh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishivxnshh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ishivxnshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishivxnshh" height="30" width="40" /></a>
