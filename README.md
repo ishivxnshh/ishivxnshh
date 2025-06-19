@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shivanshmittalsde@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a-uwXYWNqicHNvQ5UJZjJ1qIeJit3uEe/view?usp=drive_link](https://drive.google.com/file/d/1a-uwXYWNqicHNvQ5UJZjJ1qIeJit3uEe/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1a-uwXYWNqicHNvQ5UJZjJ1qIeJit3uEe/view?usp=drive_link](https://drive.google.com/file/d/1w9wm-mAQyMJ1a_hnZYSzGKvF1esOuwZc/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm funny.**
 
