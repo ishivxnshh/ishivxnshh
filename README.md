@@ -1,4 +1,4 @@
-![logo](https://github.com/Rudragupta-1/Rudragupta-1/blob/main/bannerGitHub.png)
+![logo](https://github.com/ishivxnshh/ishivxnshh/blob/main/Gemini_Generated_Image_rap9ezrap9ezrap9.png)
 <h1 align="center">Hi 👋, I'm Shivansh Mittal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHXULVZAnLgBBrbstSxUOYIqNwnWVdskqUg&usqp=CAU">
@@ -6,26 +6,24 @@
 
 - 🌱 I’m currently learning **JavaScript frameworks , Data Structure and algorithms.**
 
-- 👨‍💻 All of my portfolios are available at [https://github.com/Rudragupta-1/My-Portfolios](https://github.com/Rudragupta-1/My-Portfolios)
-
-- 📝 I regularly post achievements on [https://www.linkedin.com/in/rudra-gupta-a4481024b/](https://www.linkedin.com/in/rudra-gupta-a4481024b/)
+- 📝 I regularly post achievements on [https://www.linkedin.com/in/ishivxnshh/](https://www.linkedin.com/in/ishivxnshh/)
 
 - 💬 Ask me about **Problem Solving , Development.**
 
-- 📫 How to reach me **guptarudra901@gmail.com**
+- 📫 How to reach me **shivanshmittalsde@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Rudragupta-1](https://github.com/Rudragupta-1)
+- 📄 Know about my experiences [https://github.com/ishivxnshh](https://github.com/ishivxnshh)
 
 - ⚡ Fun fact **I am extrovert and introvert about my work to people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rudra gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rudra gupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudra gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra gupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codebossrudra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codebossrudra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rudra gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudra gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codebossrudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codebossrudra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codebossrudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codebossrudra" height="30" width="40" /></a>
+<a href="https://codepen.io/ishivxnshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Shivansh Mittal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishivxnsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivansh Mittal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ishivxnshh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishivxnshh" height="30" width="40" /></a>
+<a href="hackerrank.com/ishivxnshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Shivansh Mittal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ishivxnshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iahivxnshh" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/shivansh_mittal3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivansh_mittal3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
