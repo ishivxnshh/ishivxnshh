@@ -1,5 +1,5 @@
 ![logo](https://github.com/Rudragupta-1/Rudragupta-1/blob/main/bannerGitHub.png)
-<h1 align="center">Hi 👋, I'm Rudra Gupta</h1>
+<h1 align="center">Hi 👋, I'm Shivansh Mittal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHXULVZAnLgBBrbstSxUOYIqNwnWVdskqUg&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudragupta-1&label=Profile%20views&color=0e75b6&style=flat" alt="rudragupta-1" /> </p>
