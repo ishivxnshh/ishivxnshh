@@ -1,5 +1,8 @@
 ![logo](https://github.com/ishivxnshh/ishivxnshh/blob/main/Gemini_Generated_Image_rap9ezrap9ezrap9.png)
-<h1 align="center">Hi 👋, I'm Shivansh Mittal</h1>
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" />, I'm Shivansh Mittal
+</h1>
+
 <h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/2d8f83b3d1b4c1e4c7df7356d0d3a64e.gif">
