@@ -150,9 +150,6 @@ const Shivansh = {
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishivxnshh&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/ishivxnshh/ishivxnshh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishivxnshh&custom_title=Shivansh's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
 
@@ -167,39 +164,9 @@ const Shivansh = {
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ishivxnshh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
-<!-- Coding Stats -->
-### **⚡ Coding Statistics**
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ishivxnshh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
-
 </div>
 
----
 
-## 💼 **FEATURED PROJECTS**
-
-<div align="center">
-
-<a href="https://github.com/ishivxnshh/3d-space-game">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ishivxnshh&repo=3d-space-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/ishivxnshh/portfolio">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ishivxnshh&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-## 🎯 **PROBLEM SOLVING STATS**
-
-<div align="center">
-
-<!-- LeetCode Stats -->
-<img src="https://leetcard.jacoblin.cool/ishivxnshh?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
 
 ---
 
